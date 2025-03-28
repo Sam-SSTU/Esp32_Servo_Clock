@@ -1,5 +1,5 @@
 # Esp32_Servo_Clock
-Work in progress.
+Work in progress. PAUSED. 
 ## Forked from:
 https://www.brettoliver.org.uk/servo_clock/servo_clock.htm
 
